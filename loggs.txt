@@ -1,0 +1,16 @@
+INFO 2023-05-07 15:25:48,700 Password added
+INFO 2023-05-07 15:28:52,669 Password added
+INFO 2023-05-07 15:30:23,773 sonu     is removed successfully
+INFO 2023-05-07 15:30:28,484 Password added
+INFO 2023-05-07 15:33:07,221 yashika  is removed successfully
+INFO 2023-05-07 15:33:11,668 Password added
+INFO 2023-05-07 15:33:48,299 Password added
+INFO 2023-05-07 15:34:02,669 Password added
+INFO 2023-05-07 15:34:14,169 Password added
+WARNING 2023-05-07 15:34:37,399 'delete all' command have deleted all passwords
+INFO 2023-05-07 15:42:29,261 Password added
+INFO 2023-05-07 15:42:36,787 Password added
+INFO 2023-05-07 15:42:43,509 Password added
+INFO 2023-05-07 15:42:47,988 Password added
+INFO 2023-05-07 15:42:56,265 Password added
+INFO 2023-05-07 15:43:04,251 Password added
